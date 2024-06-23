@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="Default.aspx" title="Home Page"  description="">
+        <siteMapNode url="addblog.aspx" title="Add Blog"  description="" />
+		<siteMapNode url="changeprofile.aspx" title="Change Profile"  description="" />
+		<siteMapNode url="changepwd.aspx" title="Change Password"  description="" />
+		<siteMapNode url="changephoto.aspx" title="Change Photo"  description="" />
+    </siteMapNode>
+</siteMap>
